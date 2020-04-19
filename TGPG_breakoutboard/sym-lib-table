@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name TGPG)(type Legacy)(uri ${KIPRJMOD}/library/symbol/TGPG.lib)(options "")(descr ""))
+)
